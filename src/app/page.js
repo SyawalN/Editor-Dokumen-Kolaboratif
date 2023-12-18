@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <>
-      <a href="./document-editor">Client</a>
+      <a href="/documents">Client</a>
     </>
   )
 }
